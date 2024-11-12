@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot mobile
 
-![](./screenshot-mobile-320.png | width=100)
+![](./screenshot-mobile-320.png)
 
 ### Links
 
