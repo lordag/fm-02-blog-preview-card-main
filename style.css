@@ -94,18 +94,18 @@ main.container{
 }
 
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 26.25rem) {
     .card{        
-        width: 290px;
-        height: 522px;
+        width: 18.125rem;
+        height: 32.625rem;
     }
 
     .card img{
-        width: 250px;
+        width: 15.625rem;
     }
-    
+
     .card .user img{
-        width: 50px;
-        height: 50px;
+        width: 3.125rem;
+        height: 3.125rem;
     }
 }
